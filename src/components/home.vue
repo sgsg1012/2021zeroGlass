@@ -61,7 +61,7 @@ export default {
           // remainingTimeDisplay: false,
           // fullscreenToggle: false // 全屏按钮
         },
-        controls: false
+        controls: true
       }
     }
   },
@@ -116,9 +116,8 @@ export default {
 .sidebar {
   z-index: 1;
   position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-510%, -140%);
+  left: 0%;
+  top: 10%;
 }
 .login-homepage-hero-module,
 .login-video-container {

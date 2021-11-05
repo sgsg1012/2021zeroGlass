@@ -216,9 +216,8 @@
 .sidebar {
   z-index: 10;
   position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-510%, -140%);
+  left: 0%;
+  top: 10%;
 }
 .btn {
   width: 80px;

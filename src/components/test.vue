@@ -2,28 +2,28 @@
   <div class="sideBarcontainer">
     <div class="all">
       <div class="box">
-        <a href="http://localhost:8080/#/home" @click="home">
+        <a @click="home">
           <div class="card bg-01">
             <span class="card-content">Start</span>
           </div>
         </a>
       </div>
       <div class="box">
-        <a href="http://localhost:8080/#/select">
+        <a @click="select">
           <div class="card bg-02">
             <span class="card-content">Home</span>
           </div>
         </a>
       </div>
       <div class="box">
-        <a href="http://localhost:8080/#/review">
+        <a @click="review">
           <div class="card bg-03">
             <span class="card-content">Intro</span>
           </div>
         </a>
       </div>
       <div class="box">
-        <a href="http://localhost:8080/#/history">
+        <a @click="history">
           <div class="card bg-04">
             <span class="card-content">History</span>
           </div>
@@ -37,6 +37,20 @@
 export default {
   data () {
     return {
+    }
+  },
+  methods: {
+    home () {
+      this.$router.push('/home')
+    },
+    select () {
+      this.$router.push('/select')
+    },
+    review () {
+      this.$router.push('/review')
+    },
+    history () {
+      this.$router.push('/history')
     }
   }
 }

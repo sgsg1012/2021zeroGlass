@@ -67,9 +67,8 @@ export default {
 .sidebar {
   z-index: 1;
   position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-510%, -140%);
+  left: 0%;
+  top: 10%;
 }
 .video-container {
   position: relative;
