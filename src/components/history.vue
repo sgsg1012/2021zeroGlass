@@ -15,7 +15,7 @@
               </li>
               <li><a href="#0" data-date="28/02/1896">1896</a></li>
               <li><a href="#0" data-date="20/04/1902">1902</a></li>
-              <li><a href="#0" data-date="20/05/1906">1906</a></li>
+              <li><a href="#0" data-date="20/05/1907">1907</a></li>
               <li>
                 <!-- 无声电影阶段 -->
                 <a href="#0" data-date="09/07/1910" style="color: red">1910</a>
@@ -60,44 +60,53 @@
         <ol>
           <li class="selected" data-date="16/01/1884">
             <h2>柯达胶卷</h2>
-            <p>乔治·伊斯曼(美国)把柯达胶卷投放市场</p>
+            <br /><br />
+            <p>
+              乔治·伊斯曼(美国)把柯达胶卷投放市场,把摄影的成本降低，真正把摄影从一项贵族的游戏推广成为大众都能接触到的事物,摄影从此不再是空中楼阁，遥不可及。推动了整个社会的发展，在过去由于摄影成本昂贵，摄影基本以肖像为主，很少带有信息传播的功能。
+            </p>
           </li>
 
           <li data-date="03/03/1888">
             <h2>胶片乳剂</h2>
+            <br /><br />
             <p>伊斯曼为其在一种赛潞瑶片基上使用的胶片乳剂申请了专利</p>
           </li>
           <li data-date="03/03/1891">
             <h2>活动电影放映机</h2>
             <!-- img -->
+            <br /><br />
             <p>
-              1891年美国发明家“托马斯.爱迪生”经过几年的努力发明了活动电影放映机，这种设备的原理是把胶片切成一英寸宽的带子，首尾相连后在每一格胶片的两边钻四个孔，以便齿轮能将胶片托过摄影机。而这一早期的决定影响了整个的电影历史，35毫米加每格四个齿轮的标准成为了后来全世界的胶片规范。
+              1891年美国发明家“托马斯.爱迪生”经过几年的努力发明了活动电影放映机，这种设备的原理是把胶片切成一英寸宽的带子，首尾相连后在每一格胶片的两边钻四个孔，以便齿轮能将胶片托过摄影机,这一早期的决定影响了整个的电影历史.
             </p>
           </li>
 
           <li data-date="28/02/1896">
             <h2>叙事电影之父</h2>
+            <br /><br />
             <p>
-              “叙事电影之父”乔治·梅里爱(法国)开始摄制“幻术”(特技)电影。其后来的电影生涯中，他不断对这一想象的王国进行探索。
+              “叙事电影之父”乔治·梅里爱(法国)开始摄制“幻术”(特技)电影。其后来的电影生涯中，他不断对这一想象的王国进行探索。罗伯特·威廉姆，保罗(英国)在英国为电影放映机(Biosoope)取得专利。
             </p>
           </li>
 
           <li data-date="20/04/1902">
             <h2>电影工厂兴起</h2>
+            <br /><br />
             <p>
-              电影创作者表明对于电影叙述方式的基本因素逐渐增长的意识，电影逐渐获得国际性关注，电影工厂兴起
+              电影创作者表明对于电影叙述方式的基本因素逐渐增长的意识，电影逐渐获得国际性关注，电影工厂兴起.埃德温·S·鲍特的《邮递员的罗曼史》(美国)表明对于电影叙述方式的基本因素逐渐增长的意识。查尔斯·百代(法国)建立起自己的制片厂--百代电影公司。
             </p>
           </li>
 
-          <li data-date="20/05/1906">
+          <li data-date="20/05/1907">
             <h2>第一个城市电影审查委员会</h2>
+            <br /><br />
             <p>
-              在美国，已经发展到近1000家镍币影院。具有文化价值的影片逐渐兴起，并且在芝加哥建立了第一个城市电影审查委员会
+              在美国，已经发展到近1000家镍币影院。"艺术电影公司"在法国建立。该公司旨在生产具有文化价值的影片。具有文化价值的影片逐渐兴起，并且在芝加哥建立了第一个城市电影审查委员会
             </p>
           </li>
 
           <li data-date="09/07/1910">
             <h2>无声电影阶段</h2>
+            <br /><br />
             <p>
               进入20世纪，随着电影产业的发展，电影的技术设备和拍摄水平也在不断的进步，在摄像机位置、胶片色彩、布景与照明、交叉剪辑等具体专业技术领域都有了优化与提高，这些改善和发展使电影可以承载更多元化的信息量和更具视觉冲击力的画面。
             </p>
@@ -105,6 +114,7 @@
 
           <li data-date="30/08/1914">
             <h2>第一座大型影院</h2>
+            <br /><br />
             <p>
               故事片开始成为电影工业的标准产品，第一座大型影院“滨河剧院”在美国纽约开业。查尔斯·卓别林在启斯东的影片中出现。第一部故事片长度的喜剧片也出现了
             </p>
@@ -112,30 +122,35 @@
 
           <li data-date="15/09/1918">
             <h2>第一部动画故事片</h2>
+            <br /><br />
             <p>
               美国的第一部动画故事片，由麦凯执导的《路西塔尼亚的沉没》问世。上海商务印书馆成立"活动影戏部"(后更名为"影片部")，中国开始建立起自己的民族电影事业。
             </p>
           </li>
           <li data-date="15/09/1922">
             <h2>中国第一家影业公司</h2>
+            <br /><br />
             <p>
-              美国有三分之二的州已经或正在制定有关法规，以对电影进行管理。美国电影工业组成了“美国电影制片和发行人组织”，并聘请威尔·H·海斯为主席，以改善好莱坞的形象。中国第一家较有规模的影业公司“明星影业公司”在上海成立。它标志著中国民族电影开始进入发展阶段。
+              美国有三分之二的州已经或正在制定有关法规，以对电影进行管理。美国电影工业组成了“美国电影制片和发行人组织”，以改善好莱坞的形象。中国第一家较有规模的影业公司“明星影业公司”在上海成立。它标志著中国民族电影开始进入发展阶段。
             </p>
           </li>
           <li data-date="15/09/1927">
             <h2>奥斯卡奖</h2>
+            <br /><br />
             <p>
               美国电影艺术和科学学院第一次推出了"学院奖"(奥斯卡奖)威廉姆·威尔曼拍出了《翼》(美国)。这部描写第一次世界大战壮观的空战场面的影片获得了第一个奥斯卡最佳影片奖，并为其增添了光彩
             </p>
           </li>
           <li data-date="15/09/1935">
             <h2>有声电影阶段</h2>
+            <br /><br />
             <p>
               世界电影已经完全进入到了有声电影时代。声音的加入也促使电影拍摄设备也在此期间不断的发展和进步，由最由的单摄像机固定位置拍摄，而发展到多摄像机不同角度拍摄、可移动摄像机技术等
             </p>
           </li>
           <li data-date="01/11/1938">
             <h2>国际电影资料馆联合会成立</h2>
+            <br /><br />
             <p>
               国际电影资料馆联合会成立,美国电影处建立
               卡普拉拍摄了《浮生若梦》(美国)。这部奥斯卡最佳影片奖获奖作品赞扬了诚实、善良的品质和个人对于事业与权力的胜利
@@ -143,56 +158,65 @@
           </li>
           <li data-date="01/11/1947">
             <h2>美国演员养成所建立</h2>
+            <br /><br />
             <p>
               美国演员养成所建立。它注重培养演员去发掘内在的真实和自然的表演电视开始了大发展，并给电影工业带来严重的威胁。美国最高法院在“派拉蒙诉讼案”的审理中裁定，电影制片厂对院线的拥有违反了反垄断法，并要求制片厂必须与其院线脱钩。
             </p>
           </li>
           <li data-date="10/12/1952">
             <h2>新的放映系统和宽银幕</h2>
+            <br /><br />
             <p>
               电影公司引进了新的放映系统和宽银幕，试图重新夺回观众。美国最高法院裁定，电影媒介有权享受美国宪法第一修正案的保护；这一决定推翻了该法院1915年做出的判决。好莱坞开始转向彩色电影的生产.
             </p>
           </li>
           <li data-date="10/12/1957">
             <h2>3D电影逐渐出现</h2>
+            <br /><br />
             <p>
-              3D电影已经成为了全世界范围内电影制作者心中无限向往的技术高峰，3D电影技术称之为“电影业70年以来最伟大的创新”。
+              3D电影已经成为了全世界范围内电影制作者心中无限向往的技术高峰，3D电影技术称之为“电影业70年以来最伟大的创新”。伯格曼拍摄了《野草莓》(瑞典)。影片描述了一位上了年岁的教授寻找过去岁月的旅程。这一旅行使他发现了生命的价值。
             </p>
           </li>
           <li data-date="19/01/1962">
             <h2>间谍片开始复兴</h2>
+            <br /><br />
             <p>
-              使间谍片开始复兴。影片展示了社会的憎恨与“愤怒的青年”追求个人自由之间的冲突，它在冷酷的工业社会的背景中透视著社会的衰落。
+              使间谍片开始复兴。影片展示了社会的憎恨与“愤怒的青年”追求个人自由之间的冲突，它在冷酷的工业社会的背景中透视著社会的衰落。布努艾尔拍摄了《毁灭的天使》。影片通过客人发现自己被神秘地囚禁在主人的房子里的故事，隐喻了社会禁捆的崩溃。
             </p>
           </li>
           <li data-date="03/03/1968">
             <h2>影片分级制度</h2>
+            <br /><br />
             <p>
               美国电影联合会(MPPA)以影片分级制度取代了以往电影界用以自律的规则。安德森拍摄了《假如……》(英国)。影片反映了年轻一代对传统的反叛。伯格曼拍摄了《羞耻》(瑞典)。影片探索了在一个被战争所撕裂的社会里艺术家的责任和他们所未确定的角色。
             </p>
           </li>
           <li data-date="03/03/1974">
             <h2>"喜剧修正版"的开山之作</h2>
+            <br /><br />
             <p>
               梅尔·布鲁克斯拍摄了《燃烧的马鞍》(美国)。这是一部对西部片进行滑稽模仿的影片。它把视觉上的插科打挥、胡闹喜剧和从西部片之外搬来的场景融合在一个荒诞的情节中，成为布鲁克斯后来一系列好莱坞类型片的"喜剧修正版"的开山之作。
             </p>
           </li>
           <li data-date="03/03/1984">
             <h2>大公司生产的影片下降</h2>
+            <br /><br />
             <p>
-              好莱坞自70年代以来逐年降低产量的趋势在继续。同时，大公司生产的影片已下降到总产量的30％。米洛斯·福尔曼的《莫扎特》(美国／英国)继《甘地》后又一次获得了7项奥斯卡金像奖。这是一部富有思想内涵的传记片。影片通过宫廷乐师萨列里这个人物表现了天才与庸人、纯洁与邪恶之间的冲突。
+              好莱坞自70年代以来逐年降低产量的趋势在继续。同时，大公司生产的影片已下降到总产量的30％。米洛斯·福尔曼的《莫扎特》获得了7项奥斯卡金像奖。这是一部富有思想内涵的传记片。影片通过宫廷乐师萨列里这个人物表现了天才与庸人、纯洁与邪恶之间的冲突。
             </p>
           </li>
           <li data-date="03/03/1990">
             <h2>松下集团收购环球影片公司</h2>
+            <br /><br />
             <p>
               日本松下集团通过买下美国音乐公司(MCA)将其属下的环球影片公司拥为己有。黑泽明拍摄了《八月狂想曲》(日本)。它以衰老、死亡、战争这一流转的主题与人类、自然和日常生活的主题相交织展示出悲抢与美好之间的冲突。
             </p>
           </li>
           <li data-date="03/03/1994">
             <h2>美国电影年</h2>
+            <br /><br />
             <p>
-              世界第一家通过光缆从发行公司直接向影院传输影像的新型电影放映方式开始在美国投入使用。这一不再依赖电影拷贝的电影放映方式，标志著"多媒体时代电影"的到来；好莱坞继续刷新票房记录，年收入达54亿美元。其中位于票房前10名的影片中有9部收入超过l亿美元。它使本年度被称为“美国电影年”
+              世界第一家通过光缆从发行公司直接向影院传输影像的新型电影放映方式开始在美国投入使用。这一不再依赖电影拷贝的电影放映方式，标志著"多媒体时代电影"的到来；好莱坞继续刷新票房记录，年收入达54亿美元。它使本年度被称为“美国电影年”
             </p>
           </li>
         </ol>
@@ -209,8 +233,7 @@
 .container {
   background: url("../assets/history.jpg");
   background-position-x: 0vw;
-  // width: 100%;
-  height: 80%;
+  height: 100%;
   opacity: 2;
 }
 .sidebar {
@@ -303,7 +326,7 @@ Main Components
   z-index: 2;
   top: 0;
   height: 100%;
-  width: 20px;
+  width: 30px;
 }
 .cd-horizontal-timeline .events-wrapper::before {
   left: 0;
@@ -364,7 +387,8 @@ Main Components
   bottom: 0;
   z-index: 2;
   text-align: center;
-  font-size: 1rem;
+  font-size: 1.2rem;
+  font-weight: bold;
   padding-bottom: 15px;
   color: #383838;
   /* fix bug on Safari - text flickering while timeline translates */
@@ -411,7 +435,7 @@ Main Components
 }
 @media only screen and (min-width: 1100px) {
   .cd-horizontal-timeline {
-    margin: 6em auto;
+    margin: 0em auto;
   }
   .cd-horizontal-timeline::before {
     /* never visible - this is used in jQuery to check the current MQ */
@@ -573,11 +597,8 @@ Main Components
   .cd-horizontal-timeline .events-content h2 {
     font-size: 3rem;
   }
-  .cd-horizontal-timeline .events-content em {
-    font-size: 2rem;
-  }
   .cd-horizontal-timeline .events-content p {
-    font-size: 2rem;
+    font-size: 2.5rem;
   }
 }
 
@@ -854,6 +875,51 @@ $(function () {
       // detect click on the a single event - show new event content
       timelineComponents.eventsWrapper.on('click', 'a', function (event) {
         event.preventDefault()
+        // console.log($(this)[0].attributes)
+        var newstr = $(this)[0].attributes['data-date'].value
+        var newyear = newstr.substring(6, newstr.length)
+        // console.log(newyear)
+        // var str=timelineComponents.timelineEvents
+        // console.log(timelineComponents.timelineEvents)
+        // console.log(year)
+        var arr = timelineComponents.timelineEvents
+        let i = 0
+        // console.log(arr)
+        for (; i < arr.length; i++) {
+          if (arr[i].attributes.class.value.indexOf('selected') >= 0) {
+            break
+          }
+        }
+        // console.log(arr[i].attributes[2].value)
+        // console.log(i)
+        var str = arr[i].attributes['data-date'].value
+        var year = str.substring(6, str.length)
+        if (newyear < year) {
+          // eslint-disable-next-line no-redeclare
+          var str = $('#container')[0].style.backgroundPositionX
+          if (str === '') {
+            $('#container')[0].style.backgroundPositionX = '-100vw'
+          } else {
+            var s1 = str.substring(0, str.length - 2)
+            let num = Number(s1)
+            num = num - 100
+            $('#container')[0].style.backgroundPositionX = num + 'vw'
+            // console.log()
+          }
+        } else if (newyear > year) {
+          // eslint-disable-next-line no-redeclare
+          var str = $('#container')[0].style.backgroundPositionX
+          if (str === '') {
+            $('#container')[0].style.backgroundPositionX = '100vw'
+          } else {
+            // eslint-disable-next-line no-redeclare
+            var s1 = str.substring(0, str.length - 2)
+            let num = Number(s1)
+            num = num + 100
+            $('#container')[0].style.backgroundPositionX = num + 'vw'
+            // console.log()
+          }
+        }
         timelineComponents.timelineEvents.removeClass('selected')
         $(this).addClass('selected')
         updateOlderEvents($(this))

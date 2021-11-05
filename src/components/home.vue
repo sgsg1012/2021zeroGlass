@@ -143,9 +143,14 @@ export default {
   background-color: #253237;
 }
 .video-box {
-  margin: 0 auto;
-  width: 88%;
-  height: 100%;
+  clip: rect(2px, 1303px, 732px, 2px);
+  // position: absolute;
+  // left: 50%;
+  // top: 50%;
+  // transform: translate(-50%, -50%);
+  margin: 0px auto;
+  width: 90%;
+  height: auto;
   background-color: #253237;
 }
 
