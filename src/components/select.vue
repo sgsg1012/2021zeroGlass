@@ -1,6 +1,7 @@
 <template>
   <div class="video-container">
     <!-- 放东西 -->
+    <div class="title">晚安电影</div>
     <button class="btn review" @click="review">影片推荐</button>
     <button class="btn history" @click="history">电影发展史</button>
     <video autoplay loop muted class="vediocss" v-on:canplay="canplay">
@@ -69,6 +70,16 @@ export default {
   position: absolute;
   left: 0%;
   top: 10%;
+}
+.title {
+  z-index: 1;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  font: 700 3rem "楷体", sans-serif;
+  letter-spacing: 0.05rem;
+  color: aqua;
+  transform: translate(-60%, -350%);
 }
 .video-container {
   position: relative;
