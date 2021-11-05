@@ -1,4 +1,9 @@
 # zeroglass
+一个简单的vue前端项目 
+页面： 
+首页 
+电影推荐（3d旋转） 
+电影发展历史（时间轴）
 
 ## Project setup
 ```
