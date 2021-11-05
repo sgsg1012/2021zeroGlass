@@ -8,9 +8,19 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "better-scroll": "^2.4.2",
     "core-js": "^3.6.5",
+    "element-ui": "^2.15.6",
+    "gsap": "^3.8.0",
+    "jquery": "^3.6.0",
+    "less-loader": "^6.0.0",
+    "swiper": "^7.2.0",
+    "video.js": "^7.15.4",
     "vue": "^2.6.11",
-    "vue-router": "^3.2.0"
+    "vue-awesome-swiper": "^4.1.1",
+    "vue-router": "^3.2.0",
+    "vue-sidebar-menu": "^4.8.1",
+    "vue-video-player": "^5.0.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
